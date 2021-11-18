@@ -39,6 +39,5 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Wesley Estacio](https://img.shields.io/badge/-WesleyEstacio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/wesley-estacio)](linkedin.com/in/wesley-estacio)
 [![Gmail Badge](https://img.shields.io/badge/-wesleyestacio4@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wesleyestacio4@gmail.com)](mailto:wesleyestacio4@gmail.com)
 [![GitHub Wesley Estacio]( https://img.shields.io/github/followers/wesleyestacio?label=follow&style=social)](github.com/wesleyestacio)
