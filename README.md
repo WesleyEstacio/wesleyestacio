@@ -35,9 +35,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesleyestacio&theme=dracula&show_icons=true" />
 </a>
 
-<br/>
-
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
-
-[![Gmail Badge](https://img.shields.io/badge/-wesleyestacio4@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wesleyestacio4@gmail.com)](mailto:wesleyestacio4@gmail.com)
-[![GitHub Wesley Estacio]( https://img.shields.io/github/followers/wesleyestacio?label=follow&style=social)](github.com/wesleyestacio)
