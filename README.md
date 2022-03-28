@@ -3,7 +3,7 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **ENGENHARIA DE SOFTWARE** na <a href="https://uniao.uniguacu.edu.br/">UNIGUAÇU</a>.
 - 💼 &nbsp; Trabalhando como **SUPORTE DE TI** na <a href="http://mallet.pr.gov.br/Site_mallet/">PREFEITURA MUNICIPAL DE MALLET</a>
-- 🌱 &nbsp; Aprendendo mais sobre **React**.
+- 🌱 &nbsp; Aprendendo mais sobre **ReactJS**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
