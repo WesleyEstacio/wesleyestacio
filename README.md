@@ -1,13 +1,13 @@
-<h3> 👨‍💻: &nbsp;Sobre mim </h3>
+<h3> 👨‍💻: &nbsp;About me </h3>
 
-- 🤔 &nbsp; Buscando oportunidades de programador Front-End.
-- 🎓 &nbsp; Estudando **ENGENHARIA DE SOFTWARE** na <a href="https://uniao.uniguacu.edu.br/">UNIGUAÇU</a>.
-- 💼 &nbsp; Trabalhando como **SUPORTE DE TI** na <a href="http://mallet.pr.gov.br/Site_mallet/">PREFEITURA MUNICIPAL DE MALLET</a>
-- 🌱 &nbsp; Estudando na <a href="https://www.rocketseat.com.br/index">Rocketseat</a>.
+- 🤔 &nbsp; Seeking front-end developer jr opportunities.
+- 🎓 &nbsp; Graduating **SOFTWARE ENGNIEER** at <a href="https://uniao.uniguacu.edu.br/">UNIGUAÇU</a>.
+- 💼 &nbsp; Working as **IT SUPPORT** at <a href="http://mallet.pr.gov.br/Site_mallet/">PREFEITURA MUNICIPAL DE MALLET</a>
+- 🌱 &nbsp; Studying at <a href="https://www.rocketseat.com.br/index">Rocketseat</a>.
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<h3> :rocket:&nbsp; Skills </h3>
 
-**Aplicações e Dados**
+**Applications and Data**
  
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -24,7 +24,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   --
 
-**Ferramentas de Desenvolvimento**
+**Development Tools**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
