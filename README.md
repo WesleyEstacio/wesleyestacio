@@ -1,7 +1,7 @@
 <h3> 👨‍💻: &nbsp;About me </h3>
 
 - 🤔 &nbsp; Seeking front-end developer jr opportunities.
-- 🎓 &nbsp; Graduating **SOFTWARE ENGNIEER** at <a href="https://uniao.uniguacu.edu.br/">UNIGUAÇU</a>.
+- 🎓 &nbsp; Graduating **SOFTWARE ENGINEER** at <a href="https://uniao.uniguacu.edu.br/">UNIGUAÇU</a>.
 - 💼 &nbsp; Working as **IT SUPPORT** at <a href="http://mallet.pr.gov.br/Site_mallet/">PREFEITURA MUNICIPAL DE MALLET</a>
 - 🌱 &nbsp; Studying at <a href="https://www.rocketseat.com.br/index">Rocketseat</a>.
 
