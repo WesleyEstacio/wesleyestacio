@@ -12,6 +12,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![React](https://img.shields.io/badge/-Next-333333?style=flat&logo=react)
   ![Node](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=node.js) 
   ![Postgres](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
   --
