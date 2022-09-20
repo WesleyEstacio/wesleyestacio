@@ -1,6 +1,6 @@
 <h3> 👨‍💻: &nbsp;About me </h3>
 
-- 🎓 &nbsp; Graduating **SOFTWARE ENGINEER** at <a href="https://uniao.uniguacu.edu.br/">UNIGUAÇU</a>.
+- 🎓 &nbsp; Graduating **SOFTWARE ENGINEER** at <a href="https://uniao.ugv.edu.br/">UGV</a>.
 - 💼 &nbsp; Working as **FRONT END DEVELOPER** at <a href="https://holderplus.com.br/">HOLDER+</a>
 - 🌱 &nbsp; Studying at <a href="https://www.rocketseat.com.br/index">Rocketseat</a>.
 
