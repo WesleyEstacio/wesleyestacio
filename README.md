@@ -15,6 +15,7 @@
   ![React](https://img.shields.io/badge/-Next-333333?style=flat&logo=react)
   ![Node](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=node.js) 
   ![Postgres](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+  ![ReactNative](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
   --
   
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
