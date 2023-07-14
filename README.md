@@ -2,7 +2,6 @@
 
 - 🎓 &nbsp; Graduating **SOFTWARE ENGINEER** at <a href="https://uniao.ugv.edu.br/">UGV</a>.
 - 💼 &nbsp; Working as **FRONT END DEVELOPER** at <a href="https://holderplus.com.br/">HOLDER+</a>
-- 🌱 &nbsp; Studying React Native at <a href="https://www.rocketseat.com.br/index">Rocketseat</a>.
 
 <h3> :rocket:&nbsp; Skills </h3>
  
