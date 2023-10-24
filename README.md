@@ -24,9 +24,3 @@
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
   --
 
-<br/>
-
-<a href="https://github.com/wesleyestacio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesleyestacio&theme=dracula&show_icons=true" />
-</a>
-
