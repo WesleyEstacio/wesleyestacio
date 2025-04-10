@@ -1,8 +1,8 @@
 <h3> 👨‍💻: &nbsp;About me </h3>
 
 - 🎓 &nbsp; **SOFTWARE ENGINEER**.
-- 💼 &nbsp; Working as **FRONT END DEVELOPER** at <a href="https://holderplus.com.br/">HOLDER+</a>
-
+- 💼 &nbsp; Working as **FRONT END DEVELOPER** at Mosyle
+  
 <h3> :rocket:&nbsp; Skills </h3>
  
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
