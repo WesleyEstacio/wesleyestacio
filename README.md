@@ -1,7 +1,7 @@
 <h3> 👨‍💻: &nbsp;About me </h3>
 
 - 🎓 &nbsp; **SOFTWARE ENGINEER**.
-- 💼 &nbsp; Working as **FRONT END DEVELOPER** at Mosyle
+- 💼 &nbsp; Working as **FRONT END DEVELOPER**
   
 <h3> :rocket:&nbsp; Skills </h3>
  
